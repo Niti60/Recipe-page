@@ -1,0 +1,113 @@
+.attribution {
+     font-size: 11px; text-align: center; 
+    }
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+ }
+ body{
+    background-color: hsl(30, 54%, 90%);
+ }
+ .container{
+    background-color: white;
+    height: 1500px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+ }
+ img{
+    height: 250px;
+    width: 450px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-size: cover;
+ }
+ .image{
+text-align: center;
+border-radius: 6%;
+ }
+ .recipe{
+    margin-left: 30px;
+ }
+ h1{
+    color: hsl(24, 5%, 18%);
+    font-family: sans-serif;
+ }
+ .para{
+    color: hsl(24, 5%, 18%);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .Preparation{
+    background-color: hsl(330, 100%, 98%);
+    width: 450px;
+    height: 150px;
+    border-radius: 20px;
+ }
+ .prep{
+   margin-left: 20px;
+   font-weight: 800;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: hsl(332, 51%, 32%);
+ }
+ .li1{
+   color: hsl(332, 51%, 32%);;
+ }
+ .para2{
+   font-weight: 900;
+   font-family: sans-serif;
+   font-size: 16px;
+   color: hsl(24, 5%, 18%);
+   display: inline;
+ }
+.ingri{
+   color:  hsl(14, 45%, 36%);
+   font-weight: 900;
+   font-size: 30px;
+}
+.li2{
+   color:  hsl(14, 45%, 36%);
+}
+.para3{
+   color: hsl(24, 5%, 18%);
+   display: inline;
+   font-size: default;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.inst{
+   color: hsl(14, 45%, 36%);
+   font-weight: 900;
+   font-family: sans-serif;
+   display: inline;
+}
+.points{
+   font-weight: 800;
+   color: hsl(24, 5%, 18%);
+   display: inline;
+}
+.exp{
+ display: inline;
+}
+table {
+   table-layout: fixed;
+   width: 100%;
+   border-collapse: collapse;
+}
+
+td {
+   padding: 10px 20px;
+}
+
+.cal {
+   color: hsl(14, 45%, 36%);
+   font-weight: bold;
+}
+
+.cont {
+   color: hsl(24, 5%, 18%);
+}
+tr{
+   border-bottom: 1px solid hsl(10, 2%, 50%);
+}
+tr:last-child{
+   border-bottom: none;
+}
